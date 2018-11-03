@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="XAMINTRO.Page2" Title="Pagina2">
+ 
+        
+        <StackLayout Padding="16">
+            
+            <Label Text="Ya estas listo para afrontar el mundo! &#128584;" FontSize="Large" HorizontalTextAlignment="Center"
+                   VerticalOptions="CenterAndExpand" HorizontalOptions="CenterAndExpand" />
+            
+            <Button Text="Ir al inicio" Clicked="exit_Clicked" />
+            
+        </StackLayout>
+    
+</ContentPage>

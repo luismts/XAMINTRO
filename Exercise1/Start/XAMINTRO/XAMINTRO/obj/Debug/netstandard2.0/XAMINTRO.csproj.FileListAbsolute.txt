@@ -1,0 +1,12 @@
+C:\Users\Luis Matos\Source\Repos\XAMINTRO\XAMINTRO\XAMINTRO\bin\Debug\netstandard2.0\XAMINTRO.deps.json
+C:\Users\Luis Matos\Source\Repos\XAMINTRO\XAMINTRO\XAMINTRO\bin\Debug\netstandard2.0\XAMINTRO.dll
+C:\Users\Luis Matos\Source\Repos\XAMINTRO\XAMINTRO\XAMINTRO\bin\Debug\netstandard2.0\XAMINTRO.pdb
+C:\Users\Luis Matos\Source\Repos\XAMINTRO\XAMINTRO\XAMINTRO\obj\Debug\netstandard2.0\XAMINTRO.csprojAssemblyReference.cache
+C:\Users\Luis Matos\Source\Repos\XAMINTRO\XAMINTRO\XAMINTRO\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Luis Matos\Source\Repos\XAMINTRO\XAMINTRO\XAMINTRO\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Luis Matos\Source\Repos\XAMINTRO\XAMINTRO\XAMINTRO\obj\Debug\netstandard2.0\XAMINTRO.csproj.CoreCompileInputs.cache
+C:\Users\Luis Matos\Source\Repos\XAMINTRO\XAMINTRO\XAMINTRO\obj\Debug\netstandard2.0\XAMINTRO.AssemblyInfoInputs.cache
+C:\Users\Luis Matos\Source\Repos\XAMINTRO\XAMINTRO\XAMINTRO\obj\Debug\netstandard2.0\XAMINTRO.AssemblyInfo.cs
+C:\Users\Luis Matos\Source\Repos\XAMINTRO\XAMINTRO\XAMINTRO\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Luis Matos\Source\Repos\XAMINTRO\XAMINTRO\XAMINTRO\obj\Debug\netstandard2.0\XAMINTRO.dll
+C:\Users\Luis Matos\Source\Repos\XAMINTRO\XAMINTRO\XAMINTRO\obj\Debug\netstandard2.0\XAMINTRO.pdb

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:XAMINTRO"
+             x:Class="XAMINTRO.MainPage" Title="Introducción a Xamarin">
+
+    <StackLayout Padding="16" VerticalOptions="FillAndExpand" HorizontalOptions="FillAndExpand" >
+
+        <Label Text="Bienvenidos al Universo Xamarin!" FontSize="Large" TextColor="#429fdd" HorizontalOptions="CenterAndExpand" VerticalOptions="Start" />
+        <Label Text="Recuerda que puedes ser parte de nosotros &#128526;" HorizontalTextAlignment="Center" VerticalOptions="Start" />
+
+        <Image Source="xamarin_universe_logo.png" VerticalOptions="FillAndExpand" />
+
+        <Button Text="Unirme" TextColor="White" BackgroundColor="Green" VerticalOptions="End" Clicked="joinUsBtn_Clicked" />
+        <Button Text="Comencemos!" TextColor="White" VerticalOptions="End" Clicked="startBtn_Clicked" />
+
+    </StackLayout>
+
+</ContentPage>
